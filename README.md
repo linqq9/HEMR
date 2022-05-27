@@ -6,7 +6,7 @@ Offline handwritten mathematical-formula recognition based on multiscale attenti
 
 ····unzip code.zip
 
-2.Download the data from link ABC and unzip it in the current directory
+2.Download the data from link [google drive](https://drive.google.com/file/d/1kZr2ssxsb2G0aIOOItgVU4RW3rnW4M4m/view?usp=sharing) and unzip it in the current directory
 
 
 3.cd ./code
